@@ -11,3 +11,5 @@ Additional references:
 6) Archived at: https://web.archive.org/web/20220519041544/https://blog.csdn.net/weixin_43336281/article/details/88628049
 7) https://blog.csdn.net/qq_38288618/article/details/107208606
 8) Archived at: https://web.archive.org/web/20220519041846/https://blog.csdn.net/qq_38288618/article/details/107208606
+
+The library found at the sites linked above had to be modified a bit to work with slower timings, previously it was going too fast, and causing the controller to spit random data.
