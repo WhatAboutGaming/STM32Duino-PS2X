@@ -1,5 +1,6 @@
 # STM32Duino-PS2X
 STM32Duino library used to read PlayStation 1 and PlayStation 2 controllers, modified from https://github.com/madsci1016/Arduino-PS2X
+I just made this because I needed my PS2 controller to work as a native xinput device, with vibration support.
 
 Additional references:
 
