@@ -13,3 +13,5 @@ Additional references:
 8) Archived at: https://web.archive.org/web/20220519041846/https://blog.csdn.net/qq_38288618/article/details/107208606
 
 The library found at the sites linked above had to be modified a bit to work with slower timings, previously it was going too fast, and causing the controller to spit random data.
+
+Please, don't use this repository as reference for anything, I don't know what I'm doing, refer to the links above if you ever need any reference.
