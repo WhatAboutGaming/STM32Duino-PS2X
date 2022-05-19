@@ -81,7 +81,6 @@ void rumbleMotors(uint8_t leftMotor, uint8_t rightMotor) {
 
 void sendXbox360Data() {
 
-  //x360.controllers[1].button(XBOX_A, nesControllerP1Data[0]); // Fire P2 input (A on NES controller)
   // BYTE 0
   XBox360.button(XBOX_BACK, ps2x.Button(PSB_SELECT)); // Back maps to Select
   XBox360.button(XBOX_L3, ps2x.Button(PSB_L3)); // L3 maps to L3 (Left stick click)
